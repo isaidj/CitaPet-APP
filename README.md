@@ -1,11 +1,12 @@
 
 ---
 
-# CITA PET - Aplicación de Gestión de Citas Veterinarias
+# CitaPeT - Aplicación de Gestión de Citas Veterinarias
+<img src="preview.png" alt="drawing" width="500"/>
 
 ## Descripción
 
-CITA PET es una aplicación móvil desarrollada en React Native que simplifica la gestión de citas para clínicas veterinarias. Permite a los profesionales de la veterinaria y dueños de mascotas organizar fácilmente las citas, registrar información vital de las mascotas y mantener un seguimiento de los detalles importantes.
+CitaPet es una aplicación móvil desarrollada en React Native que simplifica la gestión de citas para clínicas veterinarias. Permite a los profesionales de la veterinaria y dueños de mascotas organizar fácilmente las citas, registrar información vital de las mascotas y mantener un seguimiento de los detalles importantes.
 
 ## Características Principales
 
