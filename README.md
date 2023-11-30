@@ -37,4 +37,3 @@ CitaPet es una aplicación móvil desarrollada en React Native que simplifica la
 
 ---
 
-Espero que esto te ayude a empezar. ¡Si tienes alguna pregunta o algo más específico en mente, estaré encantado de ayudarte!
